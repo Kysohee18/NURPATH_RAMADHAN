@@ -4,8 +4,8 @@
 
 NURPATH adalah sebuah antarmuka web modern yang dirancang untuk memberikan inspirasi dan motivasi spiritual. Proyek ini bertujuan menyebarkan pesan kebaikan melalui integrasi teknologi AI canggih untuk mengoptimalkan penyampaian pesan secara presisi.
 
-![NURPATH Interface](https://user-images.githubusercontent.com/12345/placeholder.png) 
-*(Catatan: Ganti placeholder di atas dengan screenshot aplikasi Anda)*
+![NURPATH Interface] (d:\download\screencapture-127-0-0-1-5500-index-html-2026-02-21-20_51_52.png) 
+
 
 ## 🚀 Tentang Proyek
 
