@@ -16,7 +16,7 @@ Desainnya futuristik, menggunakan tema gelap (dark mode) dengan aksen gradien da
 ## ✨ Fitur Utama
 
 - **AI Insight Generator**: Menghasilkan kutipan motivasi menggunakan model AI `gemini-2.0-flash`.
-- **Streaming Text**: Output dari AI ditampilkan secara *real-time* (streaming) kata per kata, memberikan efek seperti sedang diketik langsung oleh AI.
+- **Streaming Text**: Output dari AI ditampilkan secara *real-time* (streaming) kata per kata, memberikan efek seperti sedang dihasilkan langsung oleh AI.
 - **Desain Modern**: Antarmuka yang bersih dan futuristik dengan efek *glassmorphism*, gradien, dan animasi halus.
 - **Prompt Engineering**: Menggunakan prompt yang sangat spesifik untuk memastikan output AI sesuai dengan yang diinginkan (singkat, padat, dan tanpa artefak yang tidak perlu).
 - **Zero-Setup**: Tidak memerlukan instalasi atau build step. Cukup buka file `index.html` di browser.
